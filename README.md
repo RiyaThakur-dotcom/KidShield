@@ -40,3 +40,16 @@
 1. Download and open the app on your Android device.
 2. Tap the **Call Mother** or **Call Father** button.
 3. The call will start automatically.
+
+   ## Video Presentation
+Watch our demo video local
+
+https://github.com/user-attachments/assets/65b8bdf6-8767-4117-a977-babcca56e7ba
+
+ly: [KidShield Demo]
+
+ieldDemo.mp4)
+## PPT Presentation
+Download or view the project slides: [KidShield Presentation]([Child safety.pdf](https://github.com/user-attachments/files/25143646/Child.safety.pdf)
+)
+
